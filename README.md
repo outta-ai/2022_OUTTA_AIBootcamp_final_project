@@ -1,1 +1,1 @@
-# 2022_OUTTA_AIBootcamp_final_project
+# 2022 OUTTA AI Bootcamp final project

@@ -56,4 +56,9 @@ AI HUB에서 다운로드 받은 raw 데이터셋을 다음의 형식을 따르�
 | 울어서 눈이 퉁퉁 부었다.... 너무 힘드네 | 슬픔 |
 | 너무 감사합니다 ㅎㅎ 사랑합니다 | 행복 |
 
+# Reference
+This repository is implemented based on [KoBERT](https://github.com/SKTBrain/KoBERT), [Xception](https://arxiv.org/abs/1610.02357).
 
+
+## 공지
+본 프로젝트를 활용하실 경우, 반드시 OUTTA의 출처를 남겨주시길 바랍니다. OUTTA의 허가 없이 함부로 자료를 무단 배포하는 것을 엄격히 금합니다.

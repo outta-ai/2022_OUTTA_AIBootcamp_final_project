@@ -25,7 +25,7 @@
 FER2013 데이터셋은 Facial Emotion Recognition을 위해 제안된 데이터셋입니다.<br>
 <br>
 이 데이터셋이 처음 소개된 논문은 Ian J. Goodfellow 등이 작성한 Challenges in Representation Learning: A report on three machine learning contests 입니다. [논문: Challenges in Representation Learning: A report on three machine learning contests](https://paperswithcode.com/paper/challenges-in-representation-learning-a)<br>
-<br>
+
 ### 1-1. 폴 에크만의 보편 감정 6가지
 <br>
 심리학자인 폴 에크만은 문화나 학습에 따라 달라지지 않는 보편적인 감정과 그에 대응되는 표정이 있다는 연구 결과를 제시했고, 인류의 보편적인 감정을 6가지(공포, 기쁨, 놀람, 분노, 슬픔, 혐오)로 분류하였습니다.<br>
@@ -33,7 +33,7 @@ FER2013 데이터셋은 Facial Emotion Recognition을 위해 제안된 데이터
 대부분의 감정 관련 AI 연구는 폴 에크만의 연구에 기반하여 수집된 데이터셋을 사용합니다. 물론 사람의 감정을 6가지로만 분류하는 관점에 대해 비판적인 시각도 있으며, 표정과 감정의 상관관계에 대해서도 불확실한 부분들이 있습니다.<br>
 <br>
 그럼에도, 이 팀 프로젝트에서는 기존의 감정 관련 AI 연구의 관행에 따라 폴 에크만의 감정 분류 체계를 따르는 AI를 개발해보았습니다.<br>
-<br>
+
 ### 1-2. FER2013 데이터셋 구성
 <br>
 FER 2013은 폴 에크만의 보편 감정 6가지에 중립(neutral)을 더한 7가지 라벨로 구성되어 있습니다.<br>
@@ -43,4 +43,7 @@ FER 2013은 폴 에크만의 보편 감정 6가지에 중립(neutral)을 더한 
 이 데이터셋은 무료 오픈 데이터셋으로, Kaggle 회원가입 후 무료로 다운받아 이용할 수 있습니다. 데이터셋이 업로드되어 있는 링크로는 다음 두가지를 찾아볼 수 있고, 이 팀 프로젝트에서는 csv 형식의 파일을 사용하였습니다.<br>
 - [낱장의 이미지 파일들](https://www.kaggle.com/datasets/msambare/fer2013)
 - [csv 파일](https://www.kaggle.com/datasets/deadskull7/fer2013)
+
+## 2. 한국어 감정 정보 대화 데이터셋
+
 

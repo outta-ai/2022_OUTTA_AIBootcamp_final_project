@@ -16,6 +16,8 @@
 <br>
 이 프로젝트는 Google Colab 환경과 Anaconda 환경에서 시행되는 것을 기본으로 하여 제작되었습니다.<br>
 <br>
+모델을 Training하는 것은 Google Colab에서 진행하고, OpenCV를 실행하는 것은 Anaconda 환경하면 됩니다.
+<br>
 
 # Dataset
 데이터셋은 다음의 [링크](https://drive.google.com/drive/folders/1_QSPldD9hAnZNykS36_AXYRsFE19A8cY?usp=sharing)에서 다운로드 받을 수 있습니다.<br>

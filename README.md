@@ -28,9 +28,9 @@ FER2013 데이터셋은 Facial Emotion Recognition을 위해 제안된 데이터
 <br>
 이 데이터셋이 처음 소개된 논문은 Ian J. Goodfellow 등이 작성한 Challenges in Representation Learning: A report on three machine learning contests 입니다. [논문: Challenges in Representation Learning: A report on three machine learning contests](https://paperswithcode.com/paper/challenges-in-representation-learning-a)<br>
 <br>
-7가지 감정 클래스를 가지고 있는 이미지 데이터이며 감정의 라벨링은 분노:0, 혐오:1, 공포:2, 행복:3, 슬픔:4, 놀람:5, 중립:6 입니다. <br>
+7가지 감정 클래스를 가지고 있는 이미지 데이터이며 감정의 라벨링은 분노:0, 혐오:1, 공포:2, 기쁨:3, 중립:4, 슬픔:5, 놀람:6 입니다. <br>
 <br>
-총 32,298개의 48x48 흑백 이미지로 구성되었고, 모두 사람의 표정 이미지입니다.. <br>
+총 32,298개의 48x48 흑백 이미지로 구성되었고, 모두 사람의 표정 이미지입니다. 총 데이터에서 28,709개의 training data, 3,589개의 private test data로 나누어 사용하였습니다. <br>
 <br>
 데이터셋은 분노(Anger) 4,457개, 혐오(Disgust) 503개, 공포(Fear) 4,601개, 행복(Happiness) 8,109개, 슬픔(Sadness) 5,475개, 놀람(Surprise) 3,584개, 보통(Neutral) 5,569개로 구성되어 있습니다.<br>
 <br>
